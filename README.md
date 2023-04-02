@@ -22,7 +22,7 @@ Assign execute permissions to the "celestia.sh" script by running the following 
 Now, you can run the "celestia.sh" script by typing the following command:
 
 
-`./celestia.sh`
+`./rewards-celestia.sh`
 
 
 --------------------------
