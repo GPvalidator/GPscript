@@ -17,7 +17,7 @@ Navigate to the "celestia" directory by running the following command:
 
 Assign execute permissions to the "celestia.sh" script by running the following command:
 
-`chmod +x celestia.sh`
+`chmod +x rewards-celestia.sh`
 
 Now, you can run the "celestia.sh" script by typing the following command:
 
