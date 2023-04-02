@@ -66,7 +66,7 @@ echo "                ---------------- "
 echo "                  |Amount balance| "
 echo "                ----------------  "
 
-sleep 5
+sleep 7
 #$CLI query bank balances $ADDRESS
 $CLI query bank balances $ADDRESS
 
