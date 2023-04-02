@@ -9,7 +9,7 @@ Open your terminal and navigate to the directory where you want to download the 
 Clone the repository by running the following command:
 
 
-`git clone https://github.com/ced/celestia.git`
+`git clone https://github.com/GPvalidator/celestia.git`
 
 Navigate to the "celestia" directory by running the following command:
 
